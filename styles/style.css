@@ -2,3 +2,83 @@
 body{
     font-family: "Work Sans", sans-serif;
 }
+/* banner style start  */
+
+
+.container{
+    width: 1920px;
+height: 1322px;
+background-color: rgba(255, 144, 14, 0.1);;
+border: 2px solid tomato;
+margin: 0 auto;
+    
+}
+.navber{
+    display: flex;
+    justify-content: space-between;
+}
+.navber h3{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 45px;
+font-weight: 700;
+margin-left: 150px;
+margin-top: 50px;
+}
+.nav-item{
+    list-style: none;
+    margin-left: 30px;
+   
+}
+
+.nav-link{
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 500;
+
+}
+.unorder-list{
+    display: flex;
+    margin-right: 240px;
+    margin-top: 63px;
+    
+    
+}
+.nav-item .nav-link{
+    display: flex;
+    justify-content: space-between;
+
+}
+/* banner style start  */
+.heading{
+    margin: 50px 529px 33px 529px;
+    
+}
+.heading p{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+}
+.heading h1{
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 64px;
+font-weight: 700;
+text-align: center;
+}
+.btn{
+    padding: 10px;
+    border-radius: 8px;
+    background: rgb(255, 144, 14);
+    justify-content: center;
+    margin-left: 400px;
+
+}
+img{
+    margin: 50px 240px 45px 240px;
+}
+
