@@ -180,6 +180,19 @@ margin-bottom: 0px;
     filter: grayscale(100%)
   }
 
+  /* footer section start  */
+  footer{
+    width: 100%;
+    background-color: rgb(255, 244, 231);
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 140px;
+    
+  }
+  .footer{
+    padding: 38px;
+  }
+
 
 
   /* responsive media query  */
